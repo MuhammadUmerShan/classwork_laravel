@@ -19,8 +19,6 @@
 </head>
 <body>
     <section class="login">
-
-       <button><a href="first">Return to index page</a></button>
         <!-- <form action="">
             <h2>Login</h2>
             <div class="input-box">

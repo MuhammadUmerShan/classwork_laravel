@@ -30,16 +30,16 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link active" aria-current="page" href="user-signup">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
+                <a class="nav-link" href="user-signup">Features</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
+                <a class="nav-link" href="user-signup">Pricing</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                <a class="nav-link disabled" href="user-signup" tabindex="-1" aria-disabled="true">Disabled</a>
               </li>
             </ul>
           </div>
@@ -254,7 +254,7 @@
                         <img src="img/c.jpg" alt="">
                         <h3>lorem ipsum</h3>
                         <p class="text-center px-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint esse molestiae commodi amet ab blanditiis quaerat accusantium, necessitatibus laudantium mollitia quas.</p>
-                    <button>more</button>
+                    <button><a href="user-signup">more</a></button>
                     </div>
                 </div>
 
@@ -263,7 +263,7 @@
                         <img src="img/c.jpg" alt="">
                         <h3>lorem ipsum</h3>
                         <p class="text-center px-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint esse molestiae commodi amet ab blanditiis quaerat accusantium, necessitatibus laudantium mollitia quas.</p>
-                    <button>more</button>
+                    <button><a href="user-signup">more</a></button>
                     </div>
                 </div>
 
@@ -272,7 +272,7 @@
                         <img src="img/c.jpg" alt="">
                         <h3>lorem ipsum</h3>
                         <p class="text-center px-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint esse molestiae commodi amet ab blanditiis quaerat accusantium, necessitatibus laudantium mollitia quas.</p>
-                    <button>more</button>
+                    <button><a href="user-signup">more</a></button>
                     </div>
                 </div>
             </div>
