@@ -75,9 +75,9 @@
     </div>
   <div class="offcanvas-body">
    <ul>
-    <li><a href="view.php">HOME</a></li>
-    <li><a href="insert.php">INSERT</a></li>
-    <li><a href="edit.php">UPDATE</a></li>
+    <li><a href="view">HOME</a></li>
+    <li><a href="insert">INSERT</a></li>
+    <li><a href="edit">UPDATE</a></li>
     <li><a href="#">ABOUT</a></li>
     <li><a href="#">CONTACT US</a></li>
    </ul>
