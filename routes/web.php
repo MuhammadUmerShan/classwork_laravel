@@ -26,4 +26,25 @@ Route::get('/user-signup', function () {
 
 
 
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/home', function () {
+    return view('home');
+});
+
+Route::get('/edit',function() {
+    return view('edit');
+});
+
+
+Route::get('/insert',function() {
+    return view('insert');
+});
+
+
+Route::get('/view',function() {
+    return view('view');
+});
 ?>
