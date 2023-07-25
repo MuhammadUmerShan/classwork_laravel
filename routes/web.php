@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\abccontroller;
 
 /*
 |--------------------------------------------------------------------------
@@ -47,4 +48,13 @@ Route::get('/insert',function() {
 Route::get('/view',function() {
     return view('view');
 });
+
+
+
+Route::get('/firstcontroller', [ abccontroller::class , 'greeting']);
+
+
+Route::get('/secondcontroller', [ abccontroller::class , 'greeting1']);
+
+
 ?>
